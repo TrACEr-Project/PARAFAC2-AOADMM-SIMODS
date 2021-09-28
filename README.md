@@ -4,12 +4,12 @@
 ## Code
 
 The Python implementation developed as part of this project is available on the [tensorkit](https://github.com/marieroald/tensorkit)
-and [bcd_tensorkit](https://github.com/marieroald/bcd_tensorkit) repositories. The project also depends on the [condat_tv](https://github.com/marieroald/condat_tv)
+and [bcd_tensorkit](https://github.com/marieroald/bcd_tensorkit) repositories. The project also depends on [condat_tv](https://github.com/marieroald/condat_tv)
 for the total variation proximal operator.
 
 The MATLAB implementation for the AO-ADMM algorithm is available in [this repository](https://github.com/AOADMM-DataFusionFramework/AOADMM-PARAFAC2).
 
-For the performance metrics, we used the implementation in [this repository](https://github.com/marieroald/component-vis).
+For the performance metrics, we used the implementations in [this repository](https://github.com/marieroald/component-vis).
 
 
 ## Simulated data tensors

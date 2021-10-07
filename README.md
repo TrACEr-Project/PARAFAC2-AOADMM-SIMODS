@@ -1,5 +1,7 @@
 # An AO-ADMM approach to constraining PARAFAC2 on all modes
+[<img src="https://img.shields.io/badge/arXiv-2110.01278-green.svg" alt="arXiv link" />](https://arxiv.org/abs/2110.01278)
 
+This repository contains links to code and simulated data used in the paper *An AO-ADMM approach to constraining PARAFAC2 on all modes* available on arXiv at [https://arxiv.org/abs/2110.01278](https://arxiv.org/abs/2110.01278).
 
 ## Code
 

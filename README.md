@@ -22,3 +22,5 @@ The simulated data tensors used for the experiments in the paper is available in
 a separate [HDF5](https://www.hdfgroup.org/solutions/hdf5/) file.
 
 See also [this notebook](Simulation_of_components.ipynb) for code to simulate evolving PARAFAC2 components. The notebook is also available as an interactive Binder notebook: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marieroald/PARAFAC2-AOADMM-SIMODS/HEAD?filepath=Simulation_of_components.ipynb)
+
+**Original repository:** https://github.com/MarieRoald/PARAFAC2-AOADMM-SIMODS
